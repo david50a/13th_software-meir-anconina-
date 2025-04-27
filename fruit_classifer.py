@@ -8,3 +8,4 @@ model=DecisionTreeClassifier()
 model.fit(x,y)
 result=model.predict([[1,6]])
 print(result)
+#meir anconina
